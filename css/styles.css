@@ -126,10 +126,6 @@ button {
     color: #2e2f42;
 }
 
-.team-item {
-    background-color: #fff;
-}
-
 .team-item-title {
     font-weight: 500;
     font-size: 20px;
@@ -144,6 +140,10 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
+}
+
+.team-item {
+    background-color: #fff;
 }
 
 /* #endregion Team */
